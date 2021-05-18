@@ -1,0 +1,31 @@
+[
+  {
+    "outputFileName": "wwwroot/js/scripts.js",
+    "inputFiles": [
+      "wwwroot/js/jquery.min.js",
+      "wwwroot/js/jquery.animateNumber.min.js",
+      "wwwroot/js/jquery.easing.1.3.js",
+      "wwwroot/js/jquery.magnific-popup.min.js",
+
+      "wwwroot/js/jquery.stellar.min.js",
+      "wwwroot/js/jquery.timepicker.min.js",
+      "wwwroot/js/jquery.waypoints.min.js",
+      "wwwroot/js/jquery-3.2.1.min.js",
+      "wwwroot/js/jquery-migrate-3.0.1.min.js",
+      "wwwroot/js/akame.bundle.js",
+      "wwwroot/js/aos.js",
+      "wwwroot/js/bootstrap.min.js",
+      "wwwroot/js/bootstrap-datepicker.js",
+      "wwwroot/js/customizer.js",
+      "wwwroot/js/google-map.js",
+      "wwwroot/js/main.js",
+      "wwwroot/js/navigation.js",
+      "wwwroot/js/owl.carousel.min.js",
+      "wwwroot/js/popper.min.js",
+      "wwwroot/js/popperr.min.js",
+      "wwwroot/js/popperrr.min.js",
+      "wwwroot/js/range.js",
+      "wwwroot/js/scrollax.min.js"
+    ]
+  }
+]

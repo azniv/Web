@@ -1,0 +1,32 @@
+﻿@using MySite.Service
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Title -->
+
+@if (ViewBag.Title != null)
+{
+    <title>@ViewBag.Title</title>
+}
+else
+{
+    <title>@Config.CompanyName</title>
+}
+@if (ViewBag.Description != null)
+{
+    <title>@ViewBag.Description</title>
+}
+else
+{
+    <meta name="description" content="Салон красоты в Курикино в Москве. Парикмахерская, ногтевой сервис. +79164111220">
+
+}
+@if (ViewBag.Keywords != null)
+{
+    <title>@ViewBag.Keywords</title>
+}
+else
+{
+    <meta name="keywords" content="Салон красоты Куркино Москва Парикмахерская">
+}
